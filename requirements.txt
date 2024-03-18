@@ -3,3 +3,4 @@ pandas==2.2.1
 gym[classic_control]==0.26.2
 tensorflow==2.16.1
 matplotlib==3.8.3
+tqdm==4.66.2
