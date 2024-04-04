@@ -132,4 +132,3 @@ cython_debug/
 
 # Videos
 src/video
-src/models
