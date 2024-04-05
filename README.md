@@ -13,3 +13,7 @@ conda create --name SC3000 python=3.9
 conda activate SC3000
 pip install -r requirements.txt
 ```
+
+## Preview Our Code
+
+You can visit [here](https://ruochee723.github.io/SC3000-Balancing-Pole-on-Cart/) to preview our code.
