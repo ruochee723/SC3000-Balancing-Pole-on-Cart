@@ -1,6 +1,6 @@
 # SC3000-Balancing-Pole-on-Cart
 
-This is the code for our SC3000 (Artificial Intelligence) assignment. The goal is to develop a Reinforcement Learning (RL) agent that is able to balance an upright pole on a cart only by pushing the cart left or right. The trained agent should know which way to push based on the cart's position and velocity, and the pole's angle and angular velocity.
+This is the repository for our SC3000 (Artificial Intelligence) assignment. The goal is to develop a Reinforcement Learning (RL) agent that is able to balance an upright pole on a cart only by pushing the cart left or right. The trained agent should know which way to push based on the cart's position and velocity, and the pole's angle and angular velocity.
 
 ## Getting Started
 
@@ -20,9 +20,9 @@ You can visit [here](https://ruochee723.github.io/SC3000-Balancing-Pole-on-Cart/
 
 ## Contributions
 
-@pufanyi - Q-Learning Agent, Deep Q-Learning Agent
-@niyaojiayou - Q-Learning Agent, Deep Q-Learning Agent
-@ruochee723 - Q-Learning Agent, Deep Q-Learning Agent
+- @pufanyi - Q-Learning Agent, Deep Q-Learning Agent
+- @niyaojiayou - Q-Learning Agent, Deep Q-Learning Agent
+- @ruochee723 - Q-Learning Agent, Deep Q-Learning Agent
 
 ## References
 
