@@ -20,9 +20,11 @@ You can visit [here](https://ruochee723.github.io/SC3000-Balancing-Pole-on-Cart/
 
 ## Contributions
 
-- @pufanyi - Q-Learning Agent, Deep Q-Learning Agent
-- @niyaojiayou - Q-Learning Agent, Deep Q-Learning Agent
-- @ruochee723 - Q-Learning Agent, Deep Q-Learning Agent
+| Name | Contributions |
+|:----:|:-------------:|
+| [pufanyi](pufanyi.github.io) | Q-Learning Agent, Deep Q-Learning Agent|
+| [Soo Ying Xi](https://github.com/niyaojiayou) | Q-Learning Agent, Deep Q-Learning Agent |
+| [Ting Ruo Chee](https://github.com/ruochee723/) | Q-Learning Agent, Deep Q-Learning Agent |
 
 ## References
 
